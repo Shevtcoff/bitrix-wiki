@@ -1,3 +1,3 @@
 # bitrix-wiki
 ***
-  - [WIKI](https://github.com/Shevtcoff/bitrix-wiki/wiki)
+  - [Содержание bitrix-wiki](https://github.com/Shevtcoff/bitrix-wiki/wiki)
